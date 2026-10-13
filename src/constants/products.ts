@@ -10,9 +10,9 @@ export interface Product {
 export const PRODUCTS: Product[] = [
   // OUTERWEAR
   { id: 1, name: "Overcast Wool Bomber", category: "Outerwear", price: "₹12,499", image: "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?q=80&w=1000&auto=format&fit=crop" },
-  { id: 2, name: "Crimson Suede Trucker", category: "Outerwear", price: "₹14,999", image: "https://images.unsplash.com/photo-1617114917202-abc239b7923e?q=80&w=1000&auto=format&fit=crop" },
+  { id: 2, name: "Crimson Suede Trucker", category: "Outerwear", price: "₹14,999", image: "https://images.unsplash.com/photo-1551028719-00167b16eac5?q=80&w=1000&auto=format&fit=crop" },
   { id: 3, name: "Shadow Peacoat Hoodie", category: "Outerwear", price: "₹16,999", image: "https://images.unsplash.com/photo-1556821840-3a63f95609a7?q=80&w=1000&auto=format&fit=crop" },
-  { id: 4, name: "Oatmeal Suede Jacket", category: "Outerwear", price: "₹13,499", image: "https://images.unsplash.com/photo-1544923246-77307dd654ca?q=80&w=1000&auto=format&fit=crop" },
+  { id: 4, name: "Oatmeal Suede Jacket", category: "Outerwear", price: "₹13,499", image: "https://images.unsplash.com/photo-1520975954732-35dd22299614?q=80&w=1000&auto=format&fit=crop" },
   { id: 13, name: "Strata Quilted Vest", category: "Outerwear", price: "₹9,499", image: "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?q=80&w=1000&auto=format&fit=crop" },
   
   // APPAREL
