@@ -25,9 +25,9 @@ export const PRODUCTS: Product[] = [
   // BOTTOMS
   { id: 5, name: "Core Sweatpants - Black", category: "Bottoms", price: "₹4,899", image: "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?q=80&w=1000&auto=format&fit=crop" },
   { id: 6, name: "Core Sweatpants - Moss", category: "Bottoms", price: "₹4,899", image: "https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?q=80&w=1000&auto=format&fit=crop" },
-  { id: 9, name: "Utility Cargo Trousers", category: "Bottoms", price: "₹7,299", image: "https://images.unsplash.com/photo-1473966968600-fa804b86d9a4?q=80&w=1000&auto=format&fit=crop" },
+  { id: 9, name: "Utility Cargo Trousers", category: "Bottoms", price: "₹7,299", image: "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?q=80&w=1000&auto=format&fit=crop" },
   { id: 15, name: "Traction Tech Shorts", category: "Bottoms", price: "₹3,999", image: "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?q=80&w=1000&auto=format&fit=crop" },
-  { id: 17, name: "Arid Desert Cargo", category: "Bottoms", price: "₹6,499", image: "https://images.unsplash.com/photo-1473966968600-fa804b86d9a4?q=80&w=1000&auto=format&fit=crop" },
+  { id: 17, name: "Arid Desert Cargo", category: "Bottoms", price: "₹6,499", image: "https://images.unsplash.com/photo-1517445312882-bc9910d016b7?q=80&w=1000&auto=format&fit=crop" },
 
   // ACCESSORIES
   { id: 11, name: "Draft Canvas Tote", category: "Accessories", price: "₹2,199", image: "https://images.unsplash.com/photo-1544816155-12df9643f363?q=80&w=1000&auto=format&fit=crop" },
